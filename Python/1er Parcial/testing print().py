@@ -1,0 +1,5 @@
+print("hola mundo")
+print("me llamo Victor Manuel Oliva Aguilar")
+print("estoy en 9°B")
+print("me harta aleks")
+print("mi comida favortia es el sushi")

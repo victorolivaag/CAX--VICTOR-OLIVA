@@ -1,0 +1,6 @@
+print("How can we act empathy and positivity when were online?")
+print("By being nice with the person that publishes something")
+print("identify: the boy, the girl and the people that bullyied the boy, the boy sent the card, the girl sent a photo to her friend and the friend published it into the internet")
+print("feel: the boy fel humilliated, the gil felt kind of guilty, but she was blaming th boy, and the other girl idk")
+print("imagine: the boy not sending any letter, the girl that took the screenshot not taking th escreenshot, and the girl after reading the letter say the boy she was not interested in him.")
+print("the boy sent the letter, the girl recived it and she could have said, hey, i read your letter, it was preety good, i liked it a lot, but i am not into anyhting right now, sorry.")
